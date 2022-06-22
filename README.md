@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Jugol Karmakar</h1>
+<h1 align="center">Hi 👋, I'm Jugol Karmakar</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
 - 🔭 I’m currently working on **React.js**
